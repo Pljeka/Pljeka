@@ -34,3 +34,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Pljeka/Pljeka/output/snake.svg" alt="Snake animation" />
+
