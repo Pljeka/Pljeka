@@ -35,4 +35,4 @@
 
 ### 🐍 Snake Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Pljeka/Pljeka/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Pljeka/Pljeka/blob/output/github-snake-dark.svg)
