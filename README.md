@@ -19,12 +19,13 @@
   <img width="12" />
 
   <!-- Kali Linux Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="30" alt="Kali Linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" alt="Kali Linux logo" />
   <img width="12" />
 
   <!-- VS Code Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
 </div>
+
 
 
 ###
