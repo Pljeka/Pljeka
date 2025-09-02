@@ -32,11 +32,7 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="8" />
-  <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_Icon.png" height="30" alt="Wireshark logo" />
-  <img width="8" />
-  <!-- Nmap -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Nmap_logo.svg" height="30" alt="Nmap logo" />
+
 </div>
 
 <hr>
