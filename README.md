@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Pljeka</h2>
 
 <p align="left">
-  Pentester 🛡️ | Cybersecurity 💻 | Ethical Hacking 👨🏻‍💻 | IT & Networking ⌨️ | Linux 🐧 | Microcomputer Systems 🖥️ | Python 🐍
+  Pentester 🛡️ | Cybersecurity 💻 | Ethical Hacking 👨🏻‍💻 | IT & Networking ⌨️ | Linux 🐧 | Microcomputer Systems 🖥️ | Python 🐍 | C ⚙️ | C++ ➕➕
 </p>
 
 <hr>
@@ -23,6 +23,12 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="8" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="8" />
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img width="8" />
   <!-- Kali Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" alt="Kali Linux logo" />
   <img width="8" />
@@ -32,7 +38,6 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="8" />
-
 </div>
 
 <hr>
